@@ -1,0 +1,9 @@
+Testsuite: spec.concordion.command.assertEquals.nonString.NullResultTest
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.229 sec
+------------- Standard Output ---------------
+/Users/kstone/testing/concordion-1.4.2/build/test-output/concordion/spec/concordion/command/assertEquals/nonString/NullResult.html
+Successes: 3, Failures: 0
+
+------------- ---------------- ---------------
+
+Testcase: testProcessSpecification took 0.228 sec

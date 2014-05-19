@@ -1,0 +1,9 @@
+Testsuite: spec.concordion.command.assertEquals.SupportedElementsTest
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.048 sec
+------------- Standard Output ---------------
+/Users/kstone/testing/concordion-1.4.2/build/test-output/concordion/spec/concordion/command/assertEquals/SupportedElements.html
+Successes: 4, Failures: 0
+
+------------- ---------------- ---------------
+
+Testcase: testProcessSpecification took 0.047 sec

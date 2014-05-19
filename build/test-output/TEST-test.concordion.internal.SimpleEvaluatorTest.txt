@@ -1,0 +1,9 @@
+Testsuite: test.concordion.internal.SimpleEvaluatorTest
+Tests run: 6, Failures: 0, Errors: 0, Time elapsed: 0.006 sec
+
+Testcase: testSupportsTemporaryVariables took 0 sec
+Testcase: testVariablesCanBeOverwritten took 0 sec
+Testcase: testVariablesCanBePassedToMethods took 0.001 sec
+Testcase: testVariablesAreCoercedToFitMethodParameters took 0 sec
+Testcase: testAccessInnerVariable took 0.002 sec
+Testcase: testEvaluationsCanCreateVariables took 0.001 sec

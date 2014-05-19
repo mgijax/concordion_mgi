@@ -1,0 +1,9 @@
+Testsuite: spec.concordion.extension.ExtensionTest
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.007 sec
+------------- Standard Output ---------------
+/Users/kstone/testing/concordion-1.4.2/build/test-output/concordion/spec/concordion/extension/Extension.html
+Successes: 0, Failures: 0
+
+------------- ---------------- ---------------
+
+Testcase: [Concordion Specification for 'Extension'] took 0.007 sec

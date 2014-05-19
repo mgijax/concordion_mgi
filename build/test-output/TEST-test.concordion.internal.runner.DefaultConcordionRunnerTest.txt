@@ -1,0 +1,15 @@
+Testsuite: test.concordion.internal.runner.DefaultConcordionRunnerTest
+Tests run: 12, Failures: 0, Errors: 0, Time elapsed: 0.031 sec
+
+Testcase: returnsIgnoredOnJUnitSuccessWhenUnimplemented took 0.004 sec
+Testcase: returnsIgnoredOnJUnitSuccessWhenExpectedToFail took 0.002 sec
+Testcase: returnsFailureOnJUnitFailure took 0.001 sec
+Testcase: returnsFailureOnJUnitFailureWhenExpectedToFail took 0 sec
+Testcase: logsExceptions took 0.008 sec
+Testcase: throwsRuntimeExceptionOnRuntimeException took 0.003 sec
+Testcase: throwsWrappedExceptionOnThrowable took 0.002 sec
+Testcase: throwsExceptionOnCheckedException took 0.002 sec
+Testcase: returnsFailureOnJUnitFailureWhenUnimplemented took 0.001 sec
+Testcase: returnsIgnoredOnJUnitSuccessWhenIgnoredCountGreaterThanZero took 0 sec
+Testcase: returnsSuccessOnJUnitSuccess took 0.001 sec
+Testcase: doesNotThrowExceptionOnAssertionError took 0 sec

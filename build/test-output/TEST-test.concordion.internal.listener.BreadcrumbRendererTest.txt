@@ -1,0 +1,7 @@
+Testsuite: test.concordion.internal.listener.BreadcrumbRendererTest
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.008 sec
+------------- Standard Error -----------------
+[Fatal Error] :1:15: The element type "head" must be terminated by the matching end-tag "</head>".
+------------- ---------------- ---------------
+
+Testcase: logsNameOfErroneousHtmlFileOnParseError took 0.005 sec

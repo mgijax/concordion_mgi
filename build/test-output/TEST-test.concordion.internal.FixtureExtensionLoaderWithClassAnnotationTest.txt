@@ -1,0 +1,8 @@
+Testsuite: test.concordion.internal.FixtureExtensionLoaderWithClassAnnotationTest
+Tests run: 5, Failures: 0, Errors: 0, Time elapsed: 0.287 sec
+
+Testcase: loadsExtensionFromFactoriesListedInClassAnnotation took 0.07 sec
+Testcase: errorsIfClassIsNotExtensionOrExtensionFactory took 0.121 sec
+Testcase: errorsIfExtensionDoesNotHaveNoArgsConstructor took 0.033 sec
+Testcase: loadsExtensionListedInClassAnnotation took 0.028 sec
+Testcase: errorsIfExtensionConstructorIsNotPublic took 0.023 sec

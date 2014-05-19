@@ -1,0 +1,6 @@
+Testsuite: test.concordion.internal.ExpressionTest
+Tests run: 3, Failures: 0, Errors: 0, Time elapsed: 0.003 sec
+
+Testcase: testWhitespaceIsIgnoredInEvaluationExpressions took 0.001 sec
+Testcase: testWhitespaceIsIgnoredInSetVariableExpressions took 0 sec
+Testcase: testAllEvaluationExpressions took 0.002 sec

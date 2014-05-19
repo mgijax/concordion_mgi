@@ -1,0 +1,4 @@
+Testsuite: test.concordion.internal.listener.JavaScriptLinkerTest
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.001 sec
+
+Testcase: xmlOutputContainsAnExplicitEndTagForScriptElement took 0 sec

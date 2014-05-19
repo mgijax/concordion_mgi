@@ -1,0 +1,9 @@
+Testsuite: spec.concordion.integration.junit3.Junit3Test
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.037 sec
+------------- Standard Output ---------------
+/Users/kstone/testing/concordion-1.4.2/build/test-output/concordion/spec/concordion/integration/junit3/Junit3.html
+Successes: 0, Failures: 0
+
+------------- ---------------- ---------------
+
+Testcase: testProcessSpecification took 0.037 sec

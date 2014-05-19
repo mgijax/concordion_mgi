@@ -1,0 +1,9 @@
+Testsuite: spec.concordion.command.execute.ExecuteTest
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.055 sec
+------------- Standard Output ---------------
+/Users/kstone/testing/concordion-1.4.2/build/test-output/concordion/spec/concordion/command/execute/Execute.html
+Successes: 1, Failures: 0
+
+------------- ---------------- ---------------
+
+Testcase: testProcessSpecification took 0.053 sec

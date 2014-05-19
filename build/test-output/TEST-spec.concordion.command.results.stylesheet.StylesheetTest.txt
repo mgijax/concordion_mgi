@@ -1,0 +1,9 @@
+Testsuite: spec.concordion.command.results.stylesheet.StylesheetTest
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.055 sec
+------------- Standard Output ---------------
+/Users/kstone/testing/concordion-1.4.2/build/test-output/concordion/spec/concordion/command/results/stylesheet/Stylesheet.html
+Successes: 2, Failures: 0
+
+------------- ---------------- ---------------
+
+Testcase: testProcessSpecification took 0.055 sec

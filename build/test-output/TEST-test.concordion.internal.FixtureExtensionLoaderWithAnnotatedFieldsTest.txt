@@ -1,0 +1,11 @@
+Testsuite: test.concordion.internal.FixtureExtensionLoaderWithAnnotatedFieldsTest
+Tests run: 8, Failures: 0, Errors: 0, Time elapsed: 0.644 sec
+
+Testcase: errorsIfFieldWithExtensionAnnotationIsNull took 0.038 sec
+Testcase: loadsPublicFieldWithExtensionAnnotation took 0.138 sec
+Testcase: ignoresFieldsWithoutExtensionAnnotation took 0.055 sec
+Testcase: errorsIfProtectedFieldHasExtensionAnnotation took 0.041 sec
+Testcase: errorsIfPackageAccessibleFieldHasExtensionAnnotation took 0.049 sec
+Testcase: errorsIfFieldWithExtensionAnnotationIsNotAConcordionExtension took 0.03 sec
+Testcase: errorsIfPrivateFieldHasExtensionAnnotation took 0.096 sec
+Testcase: loadsPublicFieldFromSuperClassWithExtensionAnnotation took 0.183 sec

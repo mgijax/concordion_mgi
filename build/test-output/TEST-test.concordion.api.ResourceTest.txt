@@ -1,0 +1,8 @@
+Testsuite: test.concordion.api.ResourceTest
+Tests run: 5, Failures: 0, Errors: 0, Time elapsed: 0.009 sec
+
+Testcase: testCanTellYouItsParent took 0.001 sec
+Testcase: testReturnsNullForParentOfRoot took 0 sec
+Testcase: testCanCalculateRelativePaths took 0.001 sec
+Testcase: testGivenRelativePathFromOneResourceReturnsOtherResource took 0.004 sec
+Testcase: testThrowsExceptionIfRelativePathPointsAboveRoot took 0 sec
