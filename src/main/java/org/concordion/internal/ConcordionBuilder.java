@@ -107,6 +107,7 @@ public class ConcordionBuilder implements ConcordionExtender {
         AssertResultRenderer assertRenderer = new AssertResultRenderer();
         withAssertEqualsListener(assertRenderer);
         withAssertTrueListener(assertRenderer);
+        withManualListener(assertRenderer);
         withAssertFalseListener(assertRenderer);
         withVerifyRowsListener(new VerifyRowsResultRenderer());
         withRunListener(new RunResultRenderer());
@@ -143,6 +144,11 @@ public class ConcordionBuilder implements ConcordionExtender {
     
     public ConcordionBuilder withAssertTrueListener(AssertTrueListener listener) {
         assertTrueCommand.addAssertListener(listener);
+        return this;
+    }
+    
+    public ConcordionBuilder withManualListener(AssertTrueListener listener) {
+        manualCommand.addAssertListener(listener);
         return this;
     }
     
